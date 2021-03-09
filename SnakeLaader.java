@@ -1,7 +1,8 @@
 public class SnakeLadder {
 
 	public static void main(String[] args) {
-		System.out.println("File for initial commit");
+		int initialPos = 0;
+		System.out.println("Player's Initial Position is: " + initialPos);
 	}
 }
 
